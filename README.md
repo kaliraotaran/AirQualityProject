@@ -1,16 +1,31 @@
-# aqapplication
 
-A new Flutter project.
 
-## Getting Started
+![image](https://github.com/kaliraotaran/AirQualityProject/assets/81376236/a9f630fc-2dff-4952-81e1-5bc6c4ab81fe)
 
-This project is a starting point for a Flutter application.
+===========================================================
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/kaliraotaran/AirQualityProject/assets/81376236/1e0194e6-c459-4335-a123-b453c592a69e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+===========================================================
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/kaliraotaran/AirQualityProject/assets/81376236/e5b7d9bb-f89d-4046-b636-a326e122521e)
+
+
+===========================================================
+ ![image](https://github.com/kaliraotaran/AirQualityProject/assets/81376236/af5dd475-efd2-45b8-bcd4-2ef62d210969)
+
+==========================================================
+
+
+![image](https://github.com/kaliraotaran/AirQualityProject/assets/81376236/55c70667-b810-413f-846f-016937c898bb)
+
+==========================================================
+
+
+![image](https://github.com/kaliraotaran/AirQualityProject/assets/81376236/f3371cb9-a4c3-4716-bfc6-0f958fe4db02)
+
+==========================================================
+
+
+ 
